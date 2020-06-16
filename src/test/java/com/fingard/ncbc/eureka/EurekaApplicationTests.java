@@ -12,7 +12,7 @@ public class EurekaApplicationTests {
 
     @Test
     public void contextLoads() {
-        System.out.println();
+        System.out.println("123123456");
     }
 
 }
